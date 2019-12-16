@@ -81,7 +81,7 @@ public class LogAop {
     }
 
     //拦截所有的controller写的所有类的所有方法
-    //主要获取开始时间 执行哪个类 执行的哪个方法
+    //主要获取开始时间 执行哪个类 执行的哪个方法haogit纠结啊叫啊
     @Before("execution(* com.itheima.ssm.controller.*.*(..))")
     public void doBefore(JoinPoint jp) throws NoSuchMethodException {
         visitTime = new Date();
@@ -93,6 +93,7 @@ public class LogAop {
         Object[] args = jp.getArgs();
         if (args == null || args.length == 0) {
             method = clazz.getMethod(methodname);//只能获取无参数的方法
+            System.out.println(method);
 
         } else {
             //获取参数的所有类型
