@@ -84,8 +84,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/heima_ssm_web/src/main/java/com/itheima/ssm/controller/LogAop.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="273">
-              <caret line="96" column="16" lean-forward="true" selection-start-line="96" selection-start-column="16" selection-end-line="96" selection-end-column="16" />
+            <state relative-caret-position="386">
+              <caret line="95" lean-forward="true" selection-start-line="95" selection-end-line="95" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -831,12 +831,12 @@
       <workItem from="1576486387897" duration="754000" />
       <workItem from="1576487171384" duration="667000" />
       <workItem from="1576487877260" duration="549000" />
-      <workItem from="1576488574630" duration="167000" />
+      <workItem from="1576488574630" duration="689000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="252027000" />
+    <option name="totallyTimeSpent" value="252549000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1376,8 +1376,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/heima_ssm_web/src/main/java/com/itheima/ssm/controller/LogAop.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
-          <caret line="96" column="16" lean-forward="true" selection-start-line="96" selection-start-column="16" selection-end-line="96" selection-end-column="16" />
+        <state relative-caret-position="386">
+          <caret line="95" lean-forward="true" selection-start-line="95" selection-end-line="95" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
